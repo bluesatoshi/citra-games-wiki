@@ -1,0 +1,15 @@
+title = "Flipnote Studio 3D"
+description = "Flipnote Studio 3D (Ugoku Memo Tobari 3D, or Flipnote Memo 3D, in Japan) is an animation application developed by Nintendo EAD and published by Nintendo for the Nintendo 3DS.\nIt was available in Japan via the eShop, and in North America, exclusive to My Nintendo users as compensation for the service's impending closure."
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000C6600"
+region = "usa"
+release_date = "2015-02-10"
+
+[[releases]]
+title = "0004000000056C00"
+region = "jpn"
+release_date = "2013-07-24"
